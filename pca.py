@@ -18,7 +18,6 @@ from scipy.special import gammaln
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.utils import check_random_state, as_float_array
 from sklearn.utils import check_array
-from sklearn.utils.extmath import fast_dot, fast_logdet, randomized_svd
 from sklearn.utils.validation import check_is_fitted
 
 
